@@ -6,10 +6,10 @@ function writeCards(names, word) {
   // }
   let i = 0
   while (i < names.length) {
-    arr.push(`Thank you, ${names[i]}, for the wonderful ${word} gift!`)
-    i++
+    arr.push(`Thank you, ${names[i]}, for the wonderful ${word} gift!`);
+    i++;
   }
-  arr
+  arr;
 }
 
 function countDown(num) {
