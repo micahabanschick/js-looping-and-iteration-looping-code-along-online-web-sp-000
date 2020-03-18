@@ -9,7 +9,7 @@ function writeCards(names, word) {
     console.log(`Thank you, ${names[i]}, for the wonderful ${word} gift!`);
     i++;
   }
-  arr;
+  return arr;
 }
 
 function countDown(num) {
