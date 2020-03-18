@@ -7,6 +7,6 @@ function writeCards(arr) {
 
 function countDown(num) {
   for (let i = num; i >= 0; i--) {
-    console.log(num)
+    console.log(i)
   }
 }
